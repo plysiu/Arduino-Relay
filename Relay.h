@@ -34,3 +34,4 @@ class Relay {
     Status status;
     void setPin(uint8_t);
 };
+#endif
